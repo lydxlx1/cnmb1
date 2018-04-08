@@ -4,3 +4,4 @@ out/
 bin/
 *.in
 *.out
+src/Solution.java
