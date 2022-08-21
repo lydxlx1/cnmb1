@@ -5,3 +5,4 @@ bin/
 *.in
 *.out
 src/Solution.java
+.DS_Store
